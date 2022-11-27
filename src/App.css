@@ -3,11 +3,13 @@
     font-size: 14px;
     color: rgb(33, 33, 33);
 }
+body {
+    background:rgb(230, 240, 230);
+}
 
 .teste {
     display: flex;
     align-items: center;
-
     
     background: rgb(156, 189, 222);
     padding: 10px;
